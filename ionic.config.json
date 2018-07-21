@@ -1,0 +1,8 @@
+{
+  "name": "saints_and_readings",
+  "app_id": "31cd290e",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
